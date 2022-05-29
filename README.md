@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**jinzhijie/jinzhijie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ywnsya/EchoNoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ This is Xiao_Jin! ✨  
-- 🐍 Python is BEST!
-- A senior high school student in Shanghai!
-- A personal developer!
-- Making QQ bot by Graia Framework!
-- 🤒 Also a depresstion patient... Need help...
+✨ This is EchoNoch! ✨ 
+
+🤔As we all know
+
+🐘 PHP is BEST!
+
+🐚 BASH is the worst!
+
+so I'd like to use   
+
+```php
+<?php  
+system(/usr/bin/bash ./command.sh);  
+?>  
+```
