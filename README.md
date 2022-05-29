@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 🤔As we all know
 
-🐘 PHP is BEST!
+🐘 PHP is the BEST!
 
-🐚 BASH is the worst!
+🐚 BASH is the WORST!
 
 so I'd like to use   
 
